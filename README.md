@@ -1,3 +1,3 @@
 # express-server
 
-to start the app, simply go to the main folder in terminal and enter "npm start"
+to start the app, simply open terminal, nagivate to the main folder, and run "npm start"
